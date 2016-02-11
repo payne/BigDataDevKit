@@ -1,3 +1,6 @@
+Note, I learned about this from the author's article
+http://www.toptal.com/big-data/developing-in-the-cloud-with-docker-and-aws
+
 # BigDataDevKit
 
 Big Data Development Kit (Hadoop / Spark / Zeppelin / IntelliJ) in Amazon AWS
